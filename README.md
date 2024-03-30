@@ -1,3 +1,3 @@
-# SSL_apellido_nombre
+# SSL_Fusetti_Leandro
 
 Este es mi repositorio para la cursada de Sintaxis y Semántica de Lenguajes.
